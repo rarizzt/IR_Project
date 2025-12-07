@@ -1,10 +1,10 @@
 # IR_Project
 Kode ini menggunakan Google Drive untuk memuat dataset. Agar kode dapat berjalan:
 
-Unduh file dataset_ir_250_preprocessed_lengkap.csv dari repository ini.
+1. Unduh file dataset_ir_250_preprocessed_lengkap.csv dari repository ini.
 
-Unduh file dataset_ir_250_sampel.csv dari repository ini.
+2. Unduh file dataset_ir_250_sampel.csv dari repository ini.
 
-Upload file tersebut ke sesi Google Colab (di folder /content).
+3. Upload file tersebut ke sesi Google Colab (di folder /content).
 
-Sesuaikan path pada pd.read_csv.
+4. Sesuaikan path pada pd.read_csv.
